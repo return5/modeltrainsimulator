@@ -1,5 +1,6 @@
 # modeltrainsimulator
 a simple model train simulator which runs in terminal
+
 ----------------controls--------
 - left arrow decreases speed of train
 - right arrow increases speed of train
