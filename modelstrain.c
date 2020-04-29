@@ -87,7 +87,6 @@ void waitForInput(void) {
 }
 
 void runTrain(void) {
-	int c;
 	while(run) {
 		switch(getch()) {
 			case KEY_UP:
