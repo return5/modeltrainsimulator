@@ -8,3 +8,6 @@ a simple model train simulator which runs in terminal
 
 --------------compiling-----------
 - uses ncurses library so you need to use -lncurses flag when using gcc
+- can use the 'compilemodeltrain.sh' script to compile
+
+ ![screenshot1](/Screenshot_1.png)
